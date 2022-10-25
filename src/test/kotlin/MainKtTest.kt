@@ -61,7 +61,7 @@ class MainKtTest {
             visaAndMIRPercent,
             visaAndMIRMinCommission)
 
-        assertEquals(35, result)
+        assertEquals(30, result)
     }
 
     @Test
